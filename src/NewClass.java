@@ -11,5 +11,5 @@
  */
 public class NewClass {
     int i1;
-    
+    String s;
 }
