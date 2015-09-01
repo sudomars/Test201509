@@ -10,6 +10,6 @@
  * @author jacob
  */
 public class NewClass {
-    int i;
+    int i1;
     
 }
